@@ -17,3 +17,5 @@ You can view the live version of the app [here](https://calculator-app-vac-web-d
 - **HTML**: For structuring the content.
 - **CSS**: For styling the components.
 - **JavaScript**: For adding interactive functionality and calculations.
+
+![image](https://github.com/user-attachments/assets/6c340b11-66fc-4595-8cd1-0be4c7602823)
