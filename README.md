@@ -1,4 +1,4 @@
-# Frontend Calculator App
+# Calculator-VAC
 
 A simple and calculator app built with HTML, CSS, and JavaScript. This calculator provides modern interface for basic arithmetic operations, featuring a user-friendly UI and styling.
 
